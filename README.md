@@ -16,6 +16,10 @@ I collaborate on:
 
 •	Predictive and insight‑focused models
 
+Link to Portfolio:
+
+• Portfolio: 
+
 Connect with me on:
 
 • LinkedIn: https://www.linkedin.com/in/emmanuel-ajilore-424442220/
