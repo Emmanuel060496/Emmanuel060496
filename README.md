@@ -20,6 +20,10 @@ Link to Portfolio:
 
 • Portfolio: https://github.com/Emmanuel060496/Emmanuel-Data-Portfolio
 
+Link to my CV:
+
+• CV: 
+
 Connect with me on:
 
 • LinkedIn: https://www.linkedin.com/in/emmanuel-ajilore-424442220/
