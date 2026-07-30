@@ -18,7 +18,7 @@ I collaborate on:
 
 Link to Portfolio:
 
-• Portfolio: 
+• Portfolio: https://github.com/Emmanuel060496/Emmanuel-Data-Portfolio
 
 Connect with me on:
 
