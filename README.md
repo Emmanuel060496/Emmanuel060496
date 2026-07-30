@@ -17,7 +17,8 @@ I collaborate on:
 •	Predictive and insight‑focused models
 
 Connect with me on:
-LinkedIn: in/emmanuel-ajilore-424442220
 
-You can reach me:  
+• LinkedIn: https://www.linkedin.com/in/emmanuel-ajilore-424442220/
+
+You can reach me via:  
 ajilore33@gmail.com
