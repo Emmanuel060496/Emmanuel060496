@@ -8,7 +8,7 @@ I’m interested in:
 
 •	Solving real problems with clean, reliable data
 
-•	I collaborate on:
+I collaborate on:
 
 •	Data‑driven projects
 
