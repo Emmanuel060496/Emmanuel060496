@@ -1,12 +1,20 @@
-- 👋 Hi, I’m @Emmanuel060496
-- 👀 I’m interested in business analytics and uncovering insights from complex datasets.           
-- 🌱 I’m currently learning  and exploring various data analysis techniques.
-- 💞️ I’m looking to collaborate on data-driven projects. 
-- 📫 How to reach me ajilore33@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I once analyzed a dataset of penguin migrations!
+Hi, I’m Emmanuel, a data professional focused on turning complex data into clear insights and practical recommendations. I work with analytics, modelling and automation to help organisations make better decisions and improve performance. I’m always building, learning and refining real‑world data solutions.
 
-<!---
-Emmanuel060496/Emmanuel060496 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m interested in:
+
+•	Business analytics and insight generation
+
+•	Data modelling, automation and workflow optimisation
+
+•	Solving real problems with clean, reliable data
+
+•	I collaborate on:
+
+•	Data‑driven projects
+
+•	Analytical dashboards
+
+•	Predictive and insight‑focused models
+
+You can reach me:  
+ajilore33@gmail.com
