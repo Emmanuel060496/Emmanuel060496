@@ -24,5 +24,6 @@ Connect with me on:
 
 • LinkedIn: https://www.linkedin.com/in/emmanuel-ajilore-424442220/
 
-You can reach me via:  
-ajilore33@gmail.com
+You can reach me via: 
+
+• Email: ajilore33@gmail.com
